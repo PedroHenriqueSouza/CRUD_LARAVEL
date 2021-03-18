@@ -1,5 +1,5 @@
 
-# CRUD_LAVARAVEL
+# CRUD_LARAVEL
 
 ###  Executar o projeto
 
